@@ -26,6 +26,7 @@ The database comprises tables for the following entities:
 * __Appointments__: Details about scheduled appointments, including dates, purposes, and statuses.
 * __Inventory__: Information about medical and hospital supplies, including item name, quantity, price, and associated supplier.
 * __Suppliers__: Directory of suppliers providing goods and services to hospitals, including contact information and countries of operation.
+
 For a full description of each table, refer to the Hospital Management Database Schema Documentation.
 
 ## Diagram
