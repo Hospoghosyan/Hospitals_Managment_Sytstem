@@ -21,6 +21,11 @@ The database comprises tables for the following entities:
 * __Billing__: Complete billing records, covering services like room charges, consultations, and medications.
 * __Pharmacy__: Details of medicines dispensed to patients, linked to prescriptions.
 * __Admissions__: Information on patient admissions, diagnosis, and hospital stay details.
+* __Medical History__: Comprehensive records of patients’ past medical conditions, treatments, allergies, and diagnoses.
+* __Manipulations__: Tracks medical procedures or interventions performed on patients, including the cost and date of the procedure.
+* __Appointments__: Details about scheduled appointments, including dates, purposes, and statuses.
+* __Inventory__: Information about medical and hospital supplies, including item name, quantity, price, and associated supplier.
+* __Suppliers__: Directory of suppliers providing goods and services to hospitals, including contact information and countries of operation.
 For a full description of each table, refer to the Hospital Management Database Schema Documentation.
 
 ## Diagram
